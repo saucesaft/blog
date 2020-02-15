@@ -9,7 +9,7 @@ hasCJKLanguage = true
 enableRobotsTXT = true
 
 # Enable Disqus
-#disqusShortname = "XXX"
+disqusShortname = "saucesaft"
 
 # Google Analytics
 #googleAnalytics = "UA-123-45"
@@ -26,10 +26,11 @@ style = "dark"  # default: auto. light: light theme, dark: dark theme, auto: bas
 dateFormat = "Monday, January 2, 2006"  # if unset, default is "2006-01-02"
 logo = ""  # if you have a logo png
 slogan = "pop culture and computers"
+coslogan = "correct my grammar"
 license = ""  # CC License
 
 [params.comments]
-enable = false  # En/Disable comments globally, default: false. You can always enable comments on per page.
+enable = true  # En/Disable comments globally, default: false. You can always enable comments on per page.
 
 [params.math]
 enable = false  # optional: true, false. Enable globally, default: false. You can always enable math on per page.
@@ -40,16 +41,18 @@ use = "none"  # builtin: "prismjs", "hljs". "none" means Chroma
 theme = "dracula"
 darkTheme = "xcode-dark"  # apply this theme in dark mode
 
-[params.nav]
-showCategories = true       # /categories/
-showTags = true             # /tags/
+[[params.nav.custom]]
+title = "Culture"
+url = "/movies/"
 
-# custom navigation items
+[[params.nav.custom]]
+title = "Tags"
+url = "/tags/"
+
+[[params.nav.custom]]
+title = "Categories"
+url = "/categories/"
 
 [[params.nav.custom]]
 title = "About"
 url = "/about"
-
-[[params.nav.custom]]
-title = "Movies"
-url = "/movies/"

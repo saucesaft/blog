@@ -4,6 +4,7 @@ date: 2020-01-11T23:12:03-06:00
 draft: false
 
 tags:
+- english
 - rant?
 - software
 - thoughts
