@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on saucesaft</title>
+    <link>https://example.com/posts/</link>
+    <description>Recent content in Posts on saucesaft</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>DON&#39;T PANIC &lt;br&gt; ©2019 saucesaft. </copyright>
+    <lastBuildDate>Sun, 05 Apr 2020 15:50:05 -0500</lastBuildDate>
+    
+	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rubiks 1</title>
+      <link>https://example.com/posts/rubiks-1/</link>
+      <pubDate>Sun, 05 Apr 2020 15:50:05 -0500</pubDate>
+      
+      <guid>https://example.com/posts/rubiks-1/</guid>
+      <description>I had this idea, there&amp;rsquo;s this simple universal algorithm which if followed will lead you to have a &amp;ldquo;solved cube&amp;rdquo;. Which by solved i refer to it having each face with 9 same colors each. Now that&amp;rsquo;s easy to process, but what if i wanted to have a custom pattern? What if my solved state wasn&amp;rsquo;t the ordinary.
+Let&amp;rsquo;s say my solved state was the ordinary one but with the center pieces shifted to the right, on paper, if we ran the algorithms from the pdf but with the modifications we mentioned, we would end up with the rubik&amp;rsquo;s cube with the pattern we wanted.</description>
+    </item>
+    
+    <item>
+      <title>Tyler</title>
+      <link>https://example.com/posts/igor/</link>
+      <pubDate>Fri, 28 Feb 2020 18:46:01 -0600</pubDate>
+      
+      <guid>https://example.com/posts/igor/</guid>
+      <description>Just watched tyler&amp;rsquo;s camp flog gnaw live concert and this came out of my hands;
+Igor&amp;rsquo;s theme:
+ Running from past songs, albums, setting the principal mood for the album. Experimenting with new vocals. Agresive mixture Femenine voice Delightful piano chords Exact word repetition sounds effects  I think:
+ Maybe taking decisions back Imiting critics Curiosity killed the felline Love as inspiration, explaining it How can i tell you? Nice moves Nice finale  A boy&amp;rsquo;s a gun:</description>
+    </item>
+    
+    <item>
+      <title>Warhol</title>
+      <link>https://example.com/posts/warhol/</link>
+      <pubDate>Sun, 16 Feb 2020 18:10:49 -0600</pubDate>
+      
+      <guid>https://example.com/posts/warhol/</guid>
+      <description>Fun fact:
+Andy Warhol was once shot 3 times, whose only one hit and almost killed him.
+Funny enough they were fired by Valerie Solanas, a radical feminist who wrote the S.C.U.M Maniefesto years before.
+It talked about eliminating the male sex and fixing the society.</description>
+    </item>
+    
+    <item>
+      <title>Interface</title>
+      <link>https://example.com/posts/interface/</link>
+      <pubDate>Tue, 11 Feb 2020 18:20:52 -0600</pubDate>
+      
+      <guid>https://example.com/posts/interface/</guid>
+      <description>What&amp;rsquo;s the purpose of a calculator? Calculate. What&amp;rsquo;s the pupose of some digital callipers? Measure. Just some vague examples of old (really old) computing. People like Ada Loveace set the standards for modern computing. During World War 2, the germans developed the Engima Machine, rasing the bar of encryption. British geniuses reunited and developed an algorithm to break the cypher, if done manually would take constant days of work, bad thing that the Germans changed the hash every 12 hours.</description>
+    </item>
+    
+    <item>
+      <title>Tacos</title>
+      <link>https://example.com/posts/tacos/</link>
+      <pubDate>Sat, 08 Feb 2020 13:49:39 -0600</pubDate>
+      
+      <guid>https://example.com/posts/tacos/</guid>
+      <description>No me gusta comer tacos, son ineficientes y aburridos.</description>
+    </item>
+    
+    <item>
+      <title>Cheaper to write software</title>
+      <link>https://example.com/posts/electrical/</link>
+      <pubDate>Sat, 11 Jan 2020 23:12:03 -0600</pubDate>
+      
+      <guid>https://example.com/posts/electrical/</guid>
+      <description>It is definetly easier and cheaper to add some if statements to a program than physical functionality.
+the firmware of my soldering iron just crashed
+&amp;mdash; whitequark (@whitequark) January 17, 2020  Recently i&amp;rsquo;ve had to develop some software that needed to interface an Arduino, well it wasn&amp;rsquo;t originally like that. It was supposed to have some lcds and 8-segment displays which the arduino could drive and show temperature values via sensors.</description>
+    </item>
+    
+  </channel>
+</rss>

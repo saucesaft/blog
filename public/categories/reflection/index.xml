@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reflection on saucesaft</title>
+    <link>https://example.com/categories/reflection/</link>
+    <description>Recent content in reflection on saucesaft</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>DON&#39;T PANIC &lt;br&gt; ©2019 saucesaft. </copyright>
+    <lastBuildDate>Tue, 11 Feb 2020 18:20:52 -0600</lastBuildDate>
+    
+	<atom:link href="https://example.com/categories/reflection/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interface</title>
+      <link>https://example.com/posts/interface/</link>
+      <pubDate>Tue, 11 Feb 2020 18:20:52 -0600</pubDate>
+      
+      <guid>https://example.com/posts/interface/</guid>
+      <description>What&amp;rsquo;s the purpose of a calculator? Calculate. What&amp;rsquo;s the pupose of some digital callipers? Measure. Just some vague examples of old (really old) computing. People like Ada Loveace set the standards for modern computing. During World War 2, the germans developed the Engima Machine, rasing the bar of encryption. British geniuses reunited and developed an algorithm to break the cypher, if done manually would take constant days of work, bad thing that the Germans changed the hash every 12 hours.</description>
+    </item>
+    
+    <item>
+      <title>Tacos</title>
+      <link>https://example.com/posts/tacos/</link>
+      <pubDate>Sat, 08 Feb 2020 13:49:39 -0600</pubDate>
+      
+      <guid>https://example.com/posts/tacos/</guid>
+      <description>No me gusta comer tacos, son ineficientes y aburridos.</description>
+    </item>
+    
+    <item>
+      <title>Cheaper to write software</title>
+      <link>https://example.com/posts/electrical/</link>
+      <pubDate>Sat, 11 Jan 2020 23:12:03 -0600</pubDate>
+      
+      <guid>https://example.com/posts/electrical/</guid>
+      <description>It is definetly easier and cheaper to add some if statements to a program than physical functionality.
+the firmware of my soldering iron just crashed
+&amp;mdash; whitequark (@whitequark) January 17, 2020  Recently i&amp;rsquo;ve had to develop some software that needed to interface an Arduino, well it wasn&amp;rsquo;t originally like that. It was supposed to have some lcds and 8-segment displays which the arduino could drive and show temperature values via sensors.</description>
+    </item>
+    
+  </channel>
+</rss>
