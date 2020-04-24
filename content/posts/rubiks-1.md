@@ -1,5 +1,5 @@
 ---
-title: "Rubiks 1"
+title: "Rubiks Blog 1"
 date: 2020-04-05T15:50:05-05:00
 draft: false
 

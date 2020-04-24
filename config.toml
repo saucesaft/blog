@@ -1,58 +1,28 @@
 baseURL = "https://example.com"
 title = "saucesaft"
-theme = "hugo-notepadium"
+theme = "ilustro"
 copyright = "DON'T PANIC <br> ©2019 saucesaft. "
 
-languageCode = "zh-cn"
-hasCJKLanguage = true
-
-enableRobotsTXT = true
-
-# Enable Disqus
-disqusShortname = "saucesaft"
-
-# Google Analytics
-#googleAnalytics = "UA-123-45"
-
-[markup.highlight]
-codeFences = true
-noClasses = false
-
-[markup.goldmark.renderer]
-unsafe = true  # enable raw HTML in Markdown
-
 [params]
-style = "dark"  # default: auto. light: light theme, dark: dark theme, auto: based on system.
-dateFormat = "Monday, January 2, 2006"  # if unset, default is "2006-01-02"
-logo = ""  # if you have a logo png
-slogan = "pop culture and computers"
-coslogan = "correct my grammar"
-license = ""  # CC License
+slogan = "hello world"
 
-[params.comments]
-enable = true  # En/Disable comments globally, default: false. You can always enable comments on per page.
-
-[params.math]
-enable = false  # optional: true, false. Enable globally, default: false. You can always enable math on per page.
-use = "katex"  # option: "katex", "mathjax". default: "katex"
-
-[params.syntax]
-use = "none"  # builtin: "prismjs", "hljs". "none" means Chroma
-theme = "dracula"
-darkTheme = "xcode-dark"  # apply this theme in dark mode
+[params.nav.title]
+title = "saucesaft"
+url = "https://saucesaft.github.io"
 
 [[params.nav.custom]]
-title = "Culture"
-url = "/movies/"
+title = "culture"
+url = "/culture/"
 
 [[params.nav.custom]]
-title = "Tags"
-url = "/tags/"
+title = "blog"
+url = "https://saucesaft.tumblr.com/"
 
 [[params.nav.custom]]
-title = "Categories"
-url = "/categories/"
+title = "code"
+url = "https://github.com/saucesaft"
 
 [[params.nav.custom]]
-title = "About"
-url = "/about"
+title = "about"
+url = "/about/"
+
