@@ -11,11 +11,11 @@ title = "saucesaft"
 url = "https://saucesaft.github.io"
 
 [[params.nav.custom]]
-title = "culture"
-url = "/culture/"
+title = "projects"
+url = "/projects/"
 
 [[params.nav.custom]]
-title = "blog"
+title = "blogg"
 url = "https://saucesaft.tumblr.com/"
 
 [[params.nav.custom]]
