@@ -4,3 +4,7 @@
 [submodule "themes/ilustro"]
 	path = themes/ilustro
 	url = https://github.com/saucesaft/ilustro
+[submodule "public."]
+	path = public.
+	url = https://github.com/saucesaft/saucesaft.github.io.git
+	branch = master
