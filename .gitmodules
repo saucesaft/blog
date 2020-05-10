@@ -8,3 +8,7 @@
 	path = public.
 	url = https://github.com/saucesaft/saucesaft.github.io.git
 	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/saucesaft/saucesaft.github.io
+	branch = master
